@@ -4,7 +4,7 @@ To ensure reproducibility of our results, the code  and data used in analysis ar
 All data and R-scripts used in our analysis were provided. To facilitate the reproducibility of our results, the  R-script folder can be used in the following order:
 #  1) R_code_Data_exploratory_analysis :
 
-   ##----Loading required data (cleaned data)-----##
+    ##----Loading required data (cleaned data)-----##
    
       * Shapefile for MSOAs in England
       * Vaccine uptake  data at MSOA level
@@ -26,7 +26,7 @@ All data and R-scripts used in our analysis were provided. To facilitate the rep
 
 #  3) R_code_Covariates_ profiles for
 
-#----Heatmap of profiles and Poesterior probabilities
+     * Heatmap of profiles and Poesterior probabilities
 
 #  4) R_code_univariate_ model for 
 
