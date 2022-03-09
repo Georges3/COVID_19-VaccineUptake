@@ -17,17 +17,17 @@ All data and R-scripts used in our analysis were provided. To facilitate the rep
       * Visualizing spatial distribution of covariates
       * Assessing Correlation between covariates
 
-#   2) R_code_multivariate model for
+#   2) R_code_multivariate model:
 
      ##--------Fitting model in INLA---------##
         * Model parameter estimates
         * Odds ratio
         * Plots of Posterior median and Relative residuals
 
-#  3) R_code_Covariates_ profiles for
+#  3) R_code_Covariates_ profiles:
 
      * Heatmap of profiles and Poesterior probabilities
 
-#  4) R_code_univariate_ model for 
+#  4) R_code_univariate_ model:
 
         * Fitting Univariate (unadjusted) model
